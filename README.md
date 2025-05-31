@@ -1,6 +1,6 @@
 ## 📁 Project Overview
 
-This notebook is part of the final milestone for the course **DSC 670 – Advanced Topics in Data Science**. The focus of this milestone is to apply predictive modeling techniques to identify and assess the likelihood of diabetes in patients based on health-related features.
+This project is to apply predictive modeling techniques to identify and assess the likelihood of diabetes in patients based on health-related features.
 
 ## 🎯 Objective
 
