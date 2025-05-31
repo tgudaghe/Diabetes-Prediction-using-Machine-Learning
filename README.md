@@ -11,7 +11,7 @@ This notebook is part of the final milestone for the course **DSC 670 – Advanc
 
 ## 📊 Dataset
 
-- **Source:** Pima Indians Diabetes Dataset from Kaggle/UCI
+- **Source:** National Diabetes Center Dataset also available on Kaggle/UCI
 - **Features:** Includes columns such as `Pregnancies`, `Glucose`, `BloodPressure`, `SkinThickness`, `Insulin`, `BMI`, `DiabetesPedigreeFunction`, `Age`, and `Outcome`.
 - **Target:** `Outcome` (0 = Non-diabetic, 1 = Diabetic)
 
